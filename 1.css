@@ -1,6 +1,7 @@
 nav {
     top: 0px;
     position: sticky;
+
 }
 ul {
   list-style-type: none;
@@ -19,7 +20,8 @@ li a {
   color: white;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;	
+  text-decoration: none;
+
 }
 
 li a:hover {
@@ -31,8 +33,8 @@ body {
 }
 .textik {
   font-family: sans-serif;
-  color: blue;
-  background-color: orange;
+  color: White;
+  background-color: lightgreen;
   border-radius: 5px;
   padding-top: 20px;
   padding-bottom: 20px;
@@ -43,3 +45,26 @@ html {
   scroll-behavior: smooth;
   margin: 0;
 }
+img{
+  text-align: center;
+}
+h1{
+  text-align: center;
+
+}
+.loff{
+   text-shadow: -1px -1px #FFF,
+               -2px -2px #FFF,
+               -1px 1px #FFF,
+               -2px 2px #FFF,
+               1px 1px #FFF,
+               2px 2px #FFF,
+               1px -1px #FFF,
+               2px -2px #FFF,
+               -3px -3px 2px #BBB,
+               -3px 3px 2px #BBB,
+               3px 3px 2px #BBB,
+               3px -3px 2px #BBB;
+}
+
+
